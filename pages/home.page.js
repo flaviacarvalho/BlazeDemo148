@@ -23,7 +23,6 @@ class HomePage{
     }
 
     //Assert - Valida: a gente faz no teste (antes nos mapeamos os elementos, acima)
-    
 
-    
 }
+export default HomePage //isso torna a classe visivel
